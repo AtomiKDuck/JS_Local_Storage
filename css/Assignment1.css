@@ -1,0 +1,52 @@
+input:hover { 
+    background-color: rgb(193, 211, 211);
+}
+
+select:hover{
+    background-color: rgb(193, 211, 211)
+}
+
+button:hover{
+    color: aliceblue;
+    background-color: rgb(140, 140, 228);
+}
+
+header{
+   color: rgb(0, 0, 0);
+   text-align: center;
+   font-size: 50px;
+}
+
+body{
+    background: -moz-linear-gradient(top,  rgb(142, 195, 255) 0%, rgba(125,185,232,0) 100%); 
+    background: linear-gradient(to bottom,  rgb(155, 197, 245) 0%,rgba(125,185,232,0) 100%);
+}
+
+p{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+legend{
+    font-size: 25px;
+}
+
+footer{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+
+
+
